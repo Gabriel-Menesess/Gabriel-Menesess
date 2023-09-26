@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+Sou iniciante, então releve qualquer erro meu😂
 
  <div>
    <a href="https://github.com/Gabriel-Menesess">
@@ -13,7 +13,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   
